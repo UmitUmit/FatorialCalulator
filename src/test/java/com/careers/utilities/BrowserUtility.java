@@ -1,4 +1,4 @@
-package com.careers.utility;
+package com.careers.utilities;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;

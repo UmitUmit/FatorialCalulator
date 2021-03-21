@@ -1,7 +1,6 @@
 package com.careers.step_definitions;
 
-import com.careers.utility.ConfigurationReader;
-import com.careers.utility.Driver;
+import com.careers.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

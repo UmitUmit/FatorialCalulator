@@ -1,6 +1,6 @@
 package com.careers.pages;
 
-import com.careers.utility.BrowserUtility;
+import com.careers.utilities.BrowserUtility;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 

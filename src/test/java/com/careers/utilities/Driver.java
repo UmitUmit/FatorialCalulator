@@ -1,4 +1,4 @@
-package com.careers.utility;
+package com.careers.utilities;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

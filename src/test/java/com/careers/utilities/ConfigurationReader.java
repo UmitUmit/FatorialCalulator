@@ -1,4 +1,4 @@
-package com.careers.utility;
+package com.careers.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;

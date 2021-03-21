@@ -1,7 +1,7 @@
 package com.careers.step_definitions;
 
-import com.careers.utility.ConfigurationReader;
-import com.careers.utility.Driver;
+import com.careers.utilities.ConfigurationReader;
+import com.careers.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
