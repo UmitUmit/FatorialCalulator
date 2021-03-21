@@ -21,7 +21,8 @@ Or using the command line, following two steps below(this will generate JSON rep
 1. `mvn clean` 
 2.  `mvn verify -Dcucumber.options="–tags @smoke"`
 
-# Maven-Cucumber_reporting, How it works ?
+
+# Maven-Cucumber_reporting, How to open from different IDEs ?
 In order to see this beautiful report, please follow below steps:
 If you use intellij idea, then click maven from top right of the IDE
 Under the maven life cycle
@@ -30,8 +31,12 @@ Under the maven life cycle
 2. double click the verify option, wait until it finished the execution
 3. open cucumber-html-reports under the target folder
 5. right click overview-features.html, open in -> Browser -> Chrome(for example)
-6. you will see a colorful pie chart, the report will be in front of you on the browser page, you can click all the clickables to see the report however you want 
+  
+   ![how to open report](https://github.com/UmitUmit/FatorialCalulator/blob/master/image%20copy%203.png)
 
+6. you will see a colorful pie chart, the report will be in front of you on the browser page, you can click all the clickables to see the report however you want
+   
+![Cucumber-mvn-report](https://github.com/UmitUmit/FatorialCalulator/blob/master/image%20(1).png)
 
 If you are using other IDEs that doesn't has the maven life cycle option on it
 
